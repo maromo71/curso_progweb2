@@ -80,8 +80,8 @@ git clone https://github.com/maromo71/curso_progweb2.git
 ### Pré requisitos
 
 No livro apresentamos como preparar o seu ambiente de desenvolvimento. Serão necessárias as instalações de:
-*PHP 7.4 (versão estável da linguagem)
-*Visual Studio Code
+* PHP 7.4 (versão estável da linguagem)
+* Visual Studio Code
 
 
 ### Instalação
