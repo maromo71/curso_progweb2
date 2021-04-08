@@ -19,8 +19,12 @@
     <img src="icons/elePHPant.png" alt="Logo" width="120" height="82">
   </a>
 
-  <h3 align="center">Livro PHP 7.4</h3>
-  <h4 align="center">Maromo e Rodrigo</h4>
+  <h3 align="center">Livro: Programação para Web II</h3>
+  <h4 align="center">Livro: Programação para Web II</h4>
+  <h5 align="center">Maromo e Rodrigo</h5>
+  <a href="https://github.com/maromo71/curso_progweb2">
+    <img src="icons/autores.png" alt="Logo" width="104" height="76">
+  </a>
 
   <p align="center">
     Um livro criado para atender a grade de Ensino Técnico e Médio das Etecs
