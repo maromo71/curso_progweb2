@@ -102,6 +102,8 @@ Distribuído sobre Licença MIT. Veja `LICENSE` para maiores informações.
 
 Marcos Roberto de Moraes - etec@maromo.net
 
+Rodrigo Henrique Martins - rodrimartins2005@gmail.com
+
 Link do repositório: [https://github.com/maromo71/curso_progweb2](https://github.com/maromo7/curso_progweb2)
 
 
