@@ -7,11 +7,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+# Livro PHP 7.4
+
 [![Contributors][contributors-shield]][contributors-url][![MIT License][license-shield]][license-url][![LinkedIn][linkedin-shield]][linkedin-url]
 
-<p align="center">
-<img src="https://img.shields.io/github/contributors/maromo71/curso_progweb2.svg?style=for-the-badge">
-</p>
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
