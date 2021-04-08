@@ -25,13 +25,12 @@
 
   <p align="center">
     Um livro criado para atender a grade de Ensino Técnico e Médio das Etecs
-
     <br />
     ·
     <a href="https://github.com/maromo71/curso_progweb2/issues">Reporte Erros no Livro</a>
     ·
     <a href="https://github.com/maromo71/curso_progweb2/issues">Solicite Novos Recursos</a>
-  </p>
+ </p>
 </p>
 
 
