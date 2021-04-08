@@ -121,6 +121,6 @@ Link do repositório: [https://github.com/maromo71/curso_progweb2](https://githu
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/maromo71/curso_progweb2/blob/master/licence
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/maromo
 [product-screenshot]: images/screenshot.png
 
