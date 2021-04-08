@@ -20,7 +20,7 @@
   </a>
 
   <h3 align="center">Livro: Programação para Web II</h3>
-  <h4 align="center">Livro: Programação para Web II</h4>
+  <h4 align="center">PHP 7.4 - Inclue PDO</h4>
   <h5 align="center">Maromo e Rodrigo</h5>
   <p align="center">
   
