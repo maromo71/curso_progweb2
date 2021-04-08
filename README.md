@@ -16,17 +16,14 @@
 <br />
 <p align="center">
   <a href="https://github.com/maromo71/curso_progweb2">
-    <img src="icons/elePHPant.png" alt="Logo" width="120" height="82">
+    <img src="icons/elePHPant.png" alt="Logo" width="240" height="165">
   </a>
 
   <h3 align="center">Livro: Programação para Web II</h3>
   <h4 align="center">Livro: Programação para Web II</h4>
   <h5 align="center">Maromo e Rodrigo</h5>
   <p align="center">
-  <a href="https://github.com/maromo71/curso_progweb2">
-    <img src="icons/autores.png" style="border-style: solid 1px" alt="Logo" width="208" height="153">
-  </a>
-  </p>
+  
 
   <p align="center">
     Um livro criado para atender a grade de Ensino Técnico e Médio das Etecs
