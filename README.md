@@ -44,7 +44,7 @@
     <li>
       <a href="#por-onde-começar">Por onde começar</a>
       <ul>
-        <li><a href="#pré-requisitos">Pŕé-requisitos</a></li>
+        <li><a href="#pré-requisitos">Pré-requisitos</a></li>
         <li><a href="#instalação">Instalação</a></li>
       </ul>
     </li>
@@ -120,7 +120,7 @@ Link do repositório: [https://github.com/maromo7/curso_progweb2](https://github
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/maromo71/curso_progweb2/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
