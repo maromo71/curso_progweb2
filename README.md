@@ -24,7 +24,7 @@
   <h5 align="center">Maromo e Rodrigo</h5>
   <p align="center">
   <a href="https://github.com/maromo71/curso_progweb2">
-    <img src="icons/autores.png" style="boder: solid 1px" alt="Logo" width="208" height="153">
+    <img src="icons/autores.png" style="border-style: solid 1px" alt="Logo" width="208" height="153">
   </a>
   </p>
 
