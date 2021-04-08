@@ -40,7 +40,7 @@
   <summary>Tabela de Contéudo</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o Repositório do Livro</a>
+      <a href="#sobre-o-repositório-do-livro">Sobre o Repositório do Livro</a>
     </li>
     <li>
       <a href="#getting-started">Por onde começar</a>
