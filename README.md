@@ -26,9 +26,8 @@
   <p align="center">
     Um livro criado para atender a grade de Ensino Técnico e Médio das Etecs
     <br />
-    ·
     <a href="https://github.com/maromo71/curso_progweb2/issues">Reporte Erros no Livro</a>
-    ·
+    | 
     <a href="https://github.com/maromo71/curso_progweb2/issues">Solicite Novos Recursos</a>
  </p>
 </p>
@@ -43,10 +42,10 @@
       <a href="#sobre-o-repositório-do-livro">Sobre o Repositório do Livro</a>
     </li>
     <li>
-      <a href="#getting-started">Por onde começar</a>
+      <a href="#por-onde-começar">Por onde começar</a>
       <ul>
-        <li><a href="#prerequisites">Pŕé-requisitos</a></li>
-        <li><a href="#installation">Instalação</a></li>
+        <li><a href="#pré-requisitos">Pŕé-requisitos</a></li>
+        <li><a href="#instalação">Instalação</a></li>
       </ul>
     </li>
     <li><a href="#license">Licença</a></li>
@@ -80,12 +79,12 @@ This section should list any major frameworks that you built your project using.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Por onde começar
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Pré requisitos
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -93,7 +92,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Instalação
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
