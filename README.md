@@ -6,7 +6,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+
+[![Contributors][contributors-shield]][contributors-url] 
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -16,22 +17,20 @@
 <br />
 <p align="center">
   <a href="https://github.com/maromo71/curso_progweb2">
-    <img src="icons/elePHPant.png" alt="Logo" width="80" height="80">
+    <img src="icons/elePHPant.png" alt="Logo" width="120" height="82">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Livro PHP 7.4</h3>
+  <h4 align="center">Maromo e Rodrigo</h4>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Um livro criado para atender a grade de Ensino Técnico e Médio das Etecs
+
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/maromo71/curso_progweb2/issues">Reporte Erros no Livro</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/maromo71/curso_progweb2/issues">Solicite Novos Recursos</a>
   </p>
 </p>
 
@@ -188,7 +187,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/maromo71/curso_progweb2/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
